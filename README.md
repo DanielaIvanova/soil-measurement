@@ -73,8 +73,8 @@ i.e. the result that should be returned for the above input is:
 ## Usage
 1. Clone the project and get the dependencies:
 ```
-git clone https://github.com/DanielaIvanova/soil_measurement
-cd soil_measurement
+git clone https://github.com/DanielaIvanova/soil-measurement
+cd soil-measurement
 mix deps.get
 ```
 
